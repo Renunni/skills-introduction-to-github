@@ -1,2 +1,3 @@
 # Learning-GIt
-Basics
+Basics of GIthub
+Author - Renuka Nair
